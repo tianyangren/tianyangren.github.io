@@ -14,7 +14,7 @@ export class AppComponent {
   url = {
     employer: 'https://www.intersystems.com/who-we-are/about-us/',
     location: 'https://www.google.com/maps/place/Cambridge,+MA/@42.3784484,-71.1479292,13z',
-    resume: 'https://tianyangren.com',
+    resume: 'https://tianyangren.com/resume/cv.pdf',
     medium: 'https://medium.com/@tianyangren',
     linkedin: 'https://www.linkedin.com/in/tianyangren/',
     github: 'https://github.com/tianyangren',
