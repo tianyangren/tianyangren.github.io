@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(28, 28, 30);
+    font-weight: 300;
+    line-height: 1;
+}
+
+body {
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}

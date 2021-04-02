@@ -1,0 +1,20 @@
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Content {
+    padding: 8vw;
+    max-width: 20em;
+}
+
+a {
+    text-decoration: underline;
+    color: inherit;
+    transition: color 200ms;
+}
+
+a:hover {
+    color: rgb(142, 142, 147);
+}
